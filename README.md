@@ -4,7 +4,7 @@
 
 1. Clone the repo.
 2. Add a file config.env
-3. Specify the following environment variables.
+3. Add the following environment variables in config.env file.
    ```PORT, MongoDB, NODE_ENV```
    Here MongoDB is the api for MongoDB Atlas.
 5. Install dependencies using `npm install`.
